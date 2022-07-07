@@ -57,6 +57,19 @@ fill_mask("הקורונה לקחה את [MASK] ולנו לא נשאר דבר.")
 ## Stay tuned!
 We are still working on our models and the datasets. We will edit this page as we progress. We are open for collaborations.
 
+## If you used this model please cite us as :
+Chriqui, Avihay, Yahav, Inbal and Bar-Siman-Tov, Ittai, Legal HeBERT: A BERT-based NLP Model for Hebrew Legal, Judicial and Legislative Texts (June 27, 2022). Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147127
+
+```
+@article{chriqui2021hebert,
+  title={Legal HeBERT: A BERT-based NLP Model for Hebrew Legal, Judicial and Legislative Texts},
+  author={Chriqui, Avihay, Yahav, Inbal and Bar-Siman-Tov, Ittai},
+  journal={SSRN preprint:4147127},
+  year={2022}
+}
+```
+
+
 ## Contact us
 [Avichay Chriqui](mailto:avichayc@mail.tau.ac.il), The Coller AI Lab <br>
 [Inbal yahav](mailto:inbalyahav@tauex.tau.ac.il), The Coller AI Lab <br>
